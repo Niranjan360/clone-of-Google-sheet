@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    {
+      "userName": "Niranjan",
+      "taskName": "js react",
+      "taskDetail": "",
+      "startDate": "",
+      "endDate": "",
+      "status": "Completed",
+      "id": 1
+    },
+    {
+      "userName": "niranjan",
+      "taskName": "react",
+      "taskDetail": "start the class",
+      "startDate": "2022-07-01",
+      "endDate": "2022-07-10",
+      "status": "Ongoing",
+      "id": 2
+    },
+    {
+      "userName": "niranjan",
+      "taskName": "react",
+      "taskDetail": "start the class",
+      "startDate": "2022-07-09",
+      "endDate": "2022-07-10",
+      "status": "Pending",
+      "id": 3
+    },
+    {
+      "userName": "Pooja",
+      "taskName": "javascript",
+      "taskDetail": "start",
+      "startDate": "2022-01-10",
+      "endDate": "2022-10-10",
+      "status": "Ongoing",
+      "id": 5
+    },
+    {
+      "userName": "Kakrthik",
+      "taskName": "Online class",
+      "taskDetail": "online class has to be started very soon",
+      "startDate": "2022-07-11",
+      "endDate": "2022-07-17",
+      "status": "Pending",
+      "id": 6
+    }
+  ]
+}
